@@ -40,7 +40,7 @@
 - 7.5.2 Research [v5gr2science]
 - 7.5.3 Case Studies [v5gr3sensemaking]
 
-### 8.6.0 Brand Story - REFINE Story [v6ourJourney]
+### 8.6.0 Mythology - REFINE Story [v6ourJourney]
 - 8.6.1 Worldbuilding [v6gr1mythology]
 - 8.6.2 Logistics Plan [v6gr2spirituality]
 - 8.6.3 Renderings [v6gr3consciousness]
